@@ -1,4 +1,4 @@
-# TO-DO LIST
+# TO-DO LIST
 - [x] Making a to-do list [docs/]
 - [ ] Checking the features with git flow
 - [ ] Building the project structure
