@@ -1,0 +1,17 @@
+#Common Libraries
+requests
+click
+jupyter
+notebook
+ipykernel
+autopep8
+#Data Science Libraries
+pandas
+numpy
+statsmodels
+matplotlib
+seaborn
+#Optional Libraries
+jupyter_contrib_nbextensions
+jupyterthemes
+jupyter-tabnine
