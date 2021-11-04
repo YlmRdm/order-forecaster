@@ -10,3 +10,14 @@ To create virtualenv you can take a look at below: <br/><br/>
 
 Then, you can install the libraries inside the virtual environment via requirements.txt:
 > pip install -r requirements.txt
+
+<b>NOTE: If you want to start from the beginning without any raw dataset, you have to run the command first below: 
+> `make clean`
+
+Then,
+> `make all`
+<br/>
+
+You can check it out from [here](https://github.com/YlmRdm/order-forecaster/blob/develop/Makefile)
+
+</br>
