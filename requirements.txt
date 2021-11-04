@@ -8,6 +8,7 @@ autopep8
 #Data Science Libraries
 pandas
 numpy
+scikit-learn
 statsmodels
 matplotlib
 seaborn
