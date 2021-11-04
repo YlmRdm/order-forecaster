@@ -1,6 +1,8 @@
 # Order Forecaster
 This model predicts the next months' orders with ARIMA.
 
+You can just take a look at the [docs/](https://github.com/YlmRdm/order-forecaster/tree/develop/docs) folder to inform.
+
 Before reading the notebooks please create a virtual environment first to prevent conflicts of different versions from Python.
 To create virtualenv you can take a look at below: <br/><br/>
 [Reference link](https://github.com/mollyliebeskind/sales_forecasting/blob/master/notebooks/01_data_cleaning_and_eda.ipynb)
