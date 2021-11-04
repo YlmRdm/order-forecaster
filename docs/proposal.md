@@ -1,0 +1,3 @@
+This project basically predicts the next months' orders with ARIMA Modeling. There are other techniques similar to SARIMAX such as LSTM but it was found suitable according to the performance of time series analysis from ARIMA.
+
+[Django REST framework](https://www.django-rest-framework.org/) would be a [better choice](https://betterprogramming.pub/create-a-machine-learning-api-with-django-rest-framework-967571640c46) to show the results as an endpoint.
