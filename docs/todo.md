@@ -7,4 +7,4 @@
 - [x] Cleaning the data and preprocessing
 - [x] Exploring the data (EDA)
 - [x] Proposing the model with ARIMA and SARIMAX
-- [ ] Providing the model on API using Django, FastAPI, or Flask
+- [-] Providing the model on API using Django.
