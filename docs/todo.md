@@ -5,6 +5,6 @@
 - [x] Creating the dev environment via virtualenv
 - [x] Importing the libraries that we need and also optional ones
 - [x] Cleaning the data and preprocessing
-- [ ] Exploring the data (EDA)
+- [x] Exploring the data (EDA)
 - [ ] Proposing the model with ARIMA and SARIMAX
 - [ ] Providing the model on API using Django, FastAPI, or Flask
