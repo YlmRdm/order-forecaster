@@ -5,7 +5,7 @@ You can just take a look at the [docs/](https://github.com/YlmRdm/order-forecast
 
 Before reading the notebooks please create a virtual environment first to prevent conflicts of different versions from Python.
 To create virtualenv you can take a look at below: <br/><br/>
-[Reference link](https://github.com/mollyliebeskind/sales_forecasting/blob/master/notebooks/01_data_cleaning_and_eda.ipynb)
+[Reference link](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/)
 <br/><br/>
 
 Then, you can install the libraries inside the virtual environment via requirements.txt:
